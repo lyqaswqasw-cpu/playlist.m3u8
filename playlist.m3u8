@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# Low Quality (360p)
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
+http://live.8kultra.org/live/774d0fb4d/c4c0646db/558210.m3u8
+
+# Medium Quality (480p)
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=854x480
+http://live.8kultra.org/live/774d0fb4d/c4c0646db/600933.m3u8
+
+# High Quality (720p HD)
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
+http://live.8kultra.org/live/774d0fb4d/c4c0646db/600922.m3u8
+
+# Ultra Quality (1080p FHD)
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+http://live.8kultra.org/live/774d0fb4d/c4c0646db/607343.m3u8
